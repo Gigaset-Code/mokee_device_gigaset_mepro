@@ -1,6 +1,21 @@
 [
   {
-    "repository": "android_device_oppo_common",
+    "repository": "mokee_device_oppo_common",
     "target_path": "device/oppo/common"
   }
 ]
+
+[
+  {
+    "repository": "mokee_kernel_gigaset_msm8994",
+    "target_path": "kernel/gigaset/msm8994"
+  }
+]
+
+[
+  {
+    "repository": "mokee_vendor_gigaset_mepro",
+    "target_path": "vendor/gigaset/mepro"
+  }
+]
+
